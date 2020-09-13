@@ -1,5 +1,7 @@
 module SimLynx
 
-# Write your package code here.
+include("stub.jl")
+
+export greet
 
 end

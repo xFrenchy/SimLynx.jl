@@ -2,5 +2,5 @@ using SimLynx
 using Test
 
 @testset "SimLynx.jl" begin
-    # Write your tests here.
+    @test greet() == "Hello World!"
 end
