@@ -1,6 +1,2 @@
-using SimLynx
-using Test
-
-@testset "SimLynx.jl" begin
-    @test greet() == "Hello World!"
-end
+using SafeTestsets
+@safetestset "Stub Tests:" begin include("stub_tests.jl") end
