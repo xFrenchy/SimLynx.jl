@@ -10,10 +10,6 @@
     A Hybrid Simulation Engine and Language in Julia
 ```
 
-University of Colorado in Denver
-
-Dr. Doug Williams, Anthony Dupont, Trystan Kaes
-
 # SimLynx
 ### Dr. Doug Williams, Anthony Dupont, Trystan Kaes
 
