@@ -1,4 +1,4 @@
 function greet()
     print("Hello World!")
-    "Hello World!"
+    return "Hello World!"
 end
