@@ -1,12 +1,1 @@
-```@meta
-CurrentModule = SimLynx
-```
-
-# SimLynx
-
-```@index
-```
-
-```@autodocs
-Modules = [SimLynx]
-```
+# THIS IS ALL BROKEN AND I DO NOT KNOW WHY
