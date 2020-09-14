@@ -1,1 +1,4 @@
-greet() = print("Hello World!")
+function greet()
+    print("Hello World!")
+    "Hello World!"
+end
