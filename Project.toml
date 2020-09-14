@@ -1,7 +1,7 @@
 name = "SimLynx"
 uuid = "8a6c08f8-8214-4bd1-af62-0b12647b7dde"
 authors = ["Dr. Doug Williams", "Anthony Dupont", "Trystan Kaes"]
-version = "0.1.0"
+version = "0.2.0"
 
 [deps]
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
