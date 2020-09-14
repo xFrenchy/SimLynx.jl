@@ -1,5 +1,5 @@
 ## Summary
-Describe the nature of the pull request; what changes exist and why they are submitted.
+Describe the nature of the pull request; what changes exist in this pull request and why they are being submitted.
 If it fixes a bug or resolves a feature request, be sure to link to that issue.
 
 ## Types of changes
