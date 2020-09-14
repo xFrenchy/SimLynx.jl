@@ -15,7 +15,6 @@ University of Colorado in Denver
 Dr. Doug Williams, Anthony Dupont, Trystan Kaes
 
 # SimLynx
-## University of Colorado in Denver
 ### Dr. Doug Williams, Anthony Dupont, Trystan Kaes
 
 
