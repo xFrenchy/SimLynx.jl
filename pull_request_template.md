@@ -20,5 +20,5 @@ _Put an `x` in the boxes that apply._
 - [ ] Lint and unit tests pass locally with my changes
 - [ ] I have added sufficient testing coverage for all additions.
 - [ ] I have added necessary documentation and updated links (if necessary).
-- [ ] I have added the appropriate #[semver](https://semver.org) bump in the title of my pull request.
+- [ ] I have added the appropriate #[semver](https://semver.org) bump in the title of my pull request and updated the version in [Project.toml](./Project.toml).
 - [ ] Any dependent changes have been merged and published in downstream modules
