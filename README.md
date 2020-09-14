@@ -8,6 +8,10 @@
   '`)/`--'\(`'                              __/ |           _/ |
     '      '                               |___/           |__/
 ```
+A Hybrid Simulation Engine and Language in Julia
+SimLynx.jl Version 0.4.0 2020-09-05
+University of Colorado in Denver
+Dr. Doug Williams, Anthony Dupont, Trystan Kaes
 
 # SimLynx
 
